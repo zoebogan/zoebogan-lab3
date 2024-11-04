@@ -3,7 +3,7 @@ Choose an option:
 2. Process a text
 java.util.NoSuchElementException: No line found
 	at java.base/java.util.Scanner.nextLine(Scanner.java:1651)
-	at WordCounter.main(WordCounter.java:106)
+	at WordCounter.main(WordCounter.java:77)
 	at Lab3_Tester.test11(Lab3_Tester.java:227)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
@@ -44,7 +44,7 @@ Choose an option:
 2. Process a text
 java.util.NoSuchElementException: No line found
 	at java.base/java.util.Scanner.nextLine(Scanner.java:1651)
-	at WordCounter.main(WordCounter.java:106)
+	at WordCounter.main(WordCounter.java:77)
 	at Lab3_Tester.test12(Lab3_Tester.java:277)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
@@ -85,7 +85,7 @@ Choose an option:
 2. Process a text
 java.util.NoSuchElementException: No line found
 	at java.base/java.util.Scanner.nextLine(Scanner.java:1651)
-	at WordCounter.main(WordCounter.java:106)
+	at WordCounter.main(WordCounter.java:77)
 	at Lab3_Tester.test13(Lab3_Tester.java:327)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
@@ -126,7 +126,7 @@ Choose an option:
 2. Process a text
 java.util.NoSuchElementException: No line found
 	at java.base/java.util.Scanner.nextLine(Scanner.java:1651)
-	at WordCounter.main(WordCounter.java:106)
+	at WordCounter.main(WordCounter.java:77)
 	at Lab3_Tester.test14(Lab3_Tester.java:378)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
