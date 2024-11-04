@@ -4,4 +4,8 @@ import java.util.*;
 
 public class InvalidStopwordException extends Exception {
 
+    public InvalidStopwordException(String errorMessage) {
+        super(errorMessage); 
+    }
+
 }

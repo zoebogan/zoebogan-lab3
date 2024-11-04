@@ -1,10 +1,12 @@
 import java.util.*; 
+import java.io.IOException;
 
 //exception when contents of file to be parsed is empty
 
 public class EmptyFileException extends IOException {
 
-    catch (TooSmallText e){
-        System.out.println(e); // will print whatever string you passed to the constructor
+    public EmptyFileException(String errorMessage) {
+        super(errorMessage);
     }
+
 }

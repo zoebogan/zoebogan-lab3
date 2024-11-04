@@ -4,4 +4,8 @@ import java.util.*;
 
 public class TooSmallText extends Exception {
 
+    public TooSmallText(String errorMessage) {
+        super(errorMessage);
+    }
+    
 }
